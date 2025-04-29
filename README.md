@@ -3,7 +3,7 @@
 - MERN stack, Data Structures and Algorithm.
 - Technology: JavaScript, ReactJs, NextJs, Frontend, Backend. 
 
-Reach out to me at divyanka.github@gmail.com.
+Reach out to me at pagaredivyanka@gmail.com.
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
