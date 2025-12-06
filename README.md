@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 - MERN stack, Data Structures and Algorithm.
 - Technology: JavaScript, ReactJs, NextJs, Frontend, Backend. 
@@ -32,4 +32,4 @@ Reach out to me at pagaredivyanka@gmail.com.
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------->   
-<table align="center" padding=40em>
+<table align="center" padding=40em> -->
