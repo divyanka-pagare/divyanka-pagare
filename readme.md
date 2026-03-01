@@ -58,13 +58,11 @@ I believe great software is not just written — it’s designed with clarity.
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 ## 🔥 Top Repositories
 <p align="center">
