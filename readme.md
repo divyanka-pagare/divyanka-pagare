@@ -42,10 +42,10 @@ I believe great software is not just written — it’s designed with clarity.
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyanka-pagare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanka-pagare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</p> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanka-pagare&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
 </p>
@@ -82,9 +82,7 @@ I believe great software is not just written — it’s designed with clarity.
 
 ## 🔥 Top Repositories
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanka-pagare&theme=tokyonight" />
-</p>
+
 ## 🧭 My Development Philosophy
 
 - Write less, think more.
