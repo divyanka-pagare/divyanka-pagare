@@ -1,7 +1,7 @@
-<h1 align="center">Divyanka</h1>
-<h3 align="center">Full Stack Developer • System Thinker</h3>
+<h1 align="left">Divyanka</h1>
+<h3 align="left">Full Stack Developer • System Thinker</h3>
 
-<p align="center">
+<p align="left">
   I build scalable web systems and experiment with intelligent models that solve real-world problems.
 </p>
 
