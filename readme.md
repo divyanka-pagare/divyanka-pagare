@@ -55,38 +55,6 @@ I believe great software is not just written — it’s designed with clarity.
 </p>
 
 
-## Featured Projects
-<p align="center">
-  <a href="https://github.com/divyanka-pagare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyanka-pagare&repo=YOUR_FIRST_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/divyanka-pagare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyanka-pagare&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/divyanka-pagare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyanka-pagare&repo=YOUR_THIRD_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/divyanka-pagare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyanka-pagare&repo=YOUR_FOURTH_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/divyanka-pagare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyanka-pagare&repo=YOUR_FIFTH_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/divyanka-pagare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyanka-pagare&repo=YOUR_SIXTH_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
----
-
-
-
-
 ## 🧭 My Development Philosophy
 
 - Write less, think more.
