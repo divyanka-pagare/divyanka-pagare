@@ -24,7 +24,7 @@ I believe great software is not just written — it’s designed with clarity.
 ## ⚙️ Tech Arsenal
 
 ### 💡 Languages
-`Java` • `JavaScript` • `Python` • `C++` • `PHP`
+`Java` • `JavaScript` • `Python` • `C++` 
 
 ### 🌐 Frontend
 `React.js` • `HTML5` • `CSS3` • `Redux`
