@@ -12,7 +12,7 @@
 I'm a developer who enjoys turning structured logic into impactful digital products.
 
 - 💻 Full Stack Developer (MERN Specialist)
-- 🤖 Exploring Machine Learning & AI-driven systems
+- 🤖 Exploring Cloud & AI-driven systems
 - 🛠 Obsessed with writing clean, maintainable code
 - 📈 Always optimizing performance & architecture
 - 🎯 Goal: Build systems that are both scalable and meaningful
