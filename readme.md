@@ -54,6 +54,9 @@ I believe great software is not just written — it’s designed with clarity.
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanka-pagare&theme=tokyonight" />
 </p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pagaredivyanka&theme=tokyonight" />
+</p>
 ---
 ## Featured Projects
 <p align="center">
