@@ -43,21 +43,18 @@ I believe great software is not just written — it’s designed with clarity.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanka-pagare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-
+  <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight" />
 </p>
 
 ## 🔥 Top Repositories
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanka-pagare&theme=tokyonight" />
 </p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight" />
-</p>
----
+
+
 ## Featured Projects
 <p align="center">
   <a href="https://github.com/divyanka-pagare">
