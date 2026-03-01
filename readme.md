@@ -23,22 +23,37 @@ I believe great software is not just written — it’s designed with clarity.
 
 ## ⚙️ Tech Arsenal
 
-### 💡 Languages
-`Java` • `JavaScript` • `Python` • `C++` 
-
-### 🌐 Frontend
-`React.js` • `HTML5` • `CSS3` • `Redux`
-
-### 🖥 Backend
-`Node.js` • `Express.js` • `Flask`
-
-### 🗄 Databases
-`MongoDB` • `MySQL`
-
-### 🔧 Tools & Workflow
-`Git` • `VS Code` • `Postman` • `REST APIs`
+### 💻 Programming Languages
+`Java` • `JavaScript` • `Python` • `C++`
 
 ---
+
+### 🌐 Frontend Engineering
+`React.js` • `Next.js` • `HTML5` • `CSS3` • `Bootstrap` • `Redux`
+
+---
+
+### 🖥 Backend & Service Development
+`Node.js` • `Express.js` • `REST APIs` • `API Design`  
+`Microservices` • `Distributed Systems` • `Service Architecture`
+
+---
+
+### 🗄 Databases
+`PostgreSQL` • `MongoDB` • `MySQL`
+
+---
+
+### ☁️ Cloud & DevOps
+`AWS EC2` • `Docker` • `Kubernetes` • `Containers`  
+`CI/CD` • `GitHub Actions` • `Infrastructure Automation` • `Git`
+
+---
+
+### 🔍 Reliability & Engineering Practices
+`Observability` • `Monitoring` • `Logging` • `Alerting`  
+`Debugging` • `Automation` • `Testing`  
+`Clean Architecture` • `Performance Optimization` • `Fault Tolerance`
 
 ## 📊 GitHub Analytics
 
