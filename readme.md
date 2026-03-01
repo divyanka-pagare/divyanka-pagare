@@ -55,6 +55,8 @@ I believe great software is not just written — it’s designed with clarity.
 `Debugging` • `Automation` • `Testing`  
 `Clean Architecture` • `Performance Optimization` • `Fault Tolerance`
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -69,6 +71,7 @@ I believe great software is not just written — it’s designed with clarity.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanka-pagare&theme=tokyonight" />
 </p>
 
+---
 
 ## 🧭 My Development Philosophy
 
