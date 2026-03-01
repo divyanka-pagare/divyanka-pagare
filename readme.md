@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 ## 🧠 Who Am I?
 
 I'm a developer who enjoys turning structured logic into impactful digital products.
