@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 - MERN stack, Data Structures and Algorithm.
 - Technology: JavaScript, ReactJs, NextJs, Frontend, Backend. 
@@ -28,4 +28,128 @@ Reach out to me at pagaredivyanka@gmail.com.
 
 ## 📊 GitHub Stats:
 
-![](https://github-profile-trophy.vercel.app/?username=pagaredivyanka&theme=discord&no-frame=false&no-bg=false&margin-w=4) 
+![](https://github-profile-trophy.vercel.app/?username=pagaredivyanka&theme=discord&no-frame=false&no-bg=false&margin-w=4)  -->
+
+<h1 align="center">🚀 Ajinkya Jagtap</h1>
+<h3 align="center">Full Stack Developer • ML Explorer • System Thinker</h3>
+
+<p align="center">
+  I build scalable web systems and experiment with intelligent models that solve real-world problems.
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+I'm a developer who enjoys turning structured logic into impactful digital products.
+
+- 💻 Full Stack Developer (MERN Specialist)
+- 🤖 Exploring Machine Learning & AI-driven systems
+- 🛠 Obsessed with writing clean, maintainable code
+- 📈 Always optimizing performance & architecture
+- 🎯 Goal: Build systems that are both scalable and meaningful
+
+I believe great software is not just written — it’s designed with clarity.
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 💡 Languages
+`JavaScript` • `Python` • `C++` • `PHP`
+
+### 🌐 Frontend
+`React.js` • `HTML5` • `CSS3` • `Redux`
+
+### 🖥 Backend
+`Node.js` • `Express.js` • `Flask`
+
+### 🗄 Databases
+`MongoDB` • `MySQL`
+
+### 🧪 Machine Learning
+`Scikit-learn` • `Pandas` • `NumPy` • `TensorFlow.js`
+
+### 🔧 Tools & Workflow
+`Git` • `VS Code` • `Postman` • `REST APIs`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkya2356&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya2356&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya2356&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 What I Build
+
+### 🧬 AI + Fitness Platform
+An AI-powered fitness ecosystem delivering personalized recommendations using ML-based insights.
+
+**Stack:** React • Node.js • TensorFlow.js • MongoDB
+
+---
+
+### 🛒 Scalable E-Commerce Platform
+A production-ready MERN e-commerce application with authentication, cart management, and payment integration.
+
+**Stack:** MERN • Redux • Stripe API
+
+---
+
+### 🗃 Database Management System
+A structured DBMS project implementing optimized SQL queries and clean schema design.
+
+**Stack:** MySQL • PHP • JavaScript
+
+---
+
+### 📈 Predictive ML Models
+Implemented regression and ensemble models for real-world datasets with proper preprocessing pipelines.
+
+**Stack:** Python • Scikit-learn • Pandas
+
+---
+
+## 🧭 My Development Philosophy
+
+- Write less, think more.
+- Simplicity > unnecessary complexity.
+- Performance matters.
+- Code should be readable even after 6 months.
+- Learning never stops.
+
+---
+
+## 🌱 Currently Leveling Up
+
+- Advanced backend architecture
+- Scalable system design
+- Deep learning foundations
+- Clean code & software patterns
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajinkya-jagtap-2023ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ajinkyajagtap2806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency compounds. Code daily. Improve daily."</i>
+</p>
