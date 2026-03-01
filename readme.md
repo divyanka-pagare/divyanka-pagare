@@ -83,7 +83,7 @@ I believe great software is not just written — it’s designed with clarity.
 ## 🔥 Top Repositories
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pagaredivyanka&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanka-pagare&theme=tokyonight" />
 </p>
 ## 🧭 My Development Philosophy
 
