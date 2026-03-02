@@ -85,7 +85,6 @@ I believe great software is not just written — it’s designed with clarity.
 
 - Advanced backend architecture
 - Scalable system design
-- Deep learning foundations
 - Clean code & software patterns
 
 ---
