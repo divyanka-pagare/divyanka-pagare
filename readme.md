@@ -1,10 +1,11 @@
 <h1 align="left">Divyanka Shrikant Pagare</h1>
-<h3 align="left">Learn.. Unlearn.. Relearn..</h3>
 
 <br/>
 
 - Full Stack Developer (MERN Specialist)
 - Exploring Cloud & AI-driven systems
+  
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
