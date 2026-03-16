@@ -8,6 +8,10 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
+<a href="[https://divyanka-portfolio.com](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight](https://flowcv.me/divyanka-pagare)">
+  <!-- <img src="https://your-image-link.com/portfolio.png" width="250"/> -->
+</a>
+
 <p align="center">
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight](https://flowcv.me/divyanka-pagare)
 </p>
