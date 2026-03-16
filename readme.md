@@ -22,13 +22,13 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
   
 <br/>
 
-## 🧠 Technologies I Work With
+## Technologies I Work With
 <table>
 <tr>
 
 <td valign="top" width="33%">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
@@ -39,7 +39,7 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 
 <td valign="top" width="33%">
 
-### 🌐 Frontend Engineering
+### Frontend Engineering
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br>
@@ -52,7 +52,7 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 
 <td valign="top" width="33%">
 
-### 🖥 Backend & Services
+### Backend & Services
 
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><br>
@@ -68,7 +68,7 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 
 <td valign="top">
 
-### 🗄 Databases
+### Databases
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br>
@@ -78,7 +78,7 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 
 <td valign="top">
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
@@ -90,7 +90,7 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 
 <td valign="top">
 
-### 🔍 Engineering Practices
+### Engineering Practices
 
 <img src="https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/Performance%20Optimization-FF5733?style=for-the-badge"/><br>
@@ -103,68 +103,6 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 </tr>
 </table>
 <br/>
-
-## DEVELOPMENT PROJECTS
-
-<details>
-<summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
-
-<br>
-
-**Technical Stack**: MERN Stack, OpenAI APIs, Node.js, React, MongoDB, Docker
-
-Real-time conversational platform designed for scalable AI-powered interactions.
-
-**Key Features**:
-- Real-time conversation streaming with async pipelines
-- Session orchestration for handling multiple users concurrently
-- Caching and optimized data pipelines achieving sub-300ms latency
-- Structured logging and observability for system monitoring
-- Optimized database schemas improving storage efficiency
-
-**Impact**: Supports 100+ concurrent users while maintaining high reliability and performance.
-
-</details>
-<details>
-<summary><b>SCHOOL ADVISORY SYSTEM – Institutional Guidance Platform</b></summary>
-
-<br>
-
-**Technical Stack**: React.js, Node.js, Express.js, MongoDB, REST APIs
-
-A full-stack platform designed to help students discover and evaluate educational institutions based on their preferences and location.
-
-**Key Features**:
-- Dynamic React-based interface for browsing and comparing institutions
-- RESTful APIs built with Node.js and Express for efficient data handling
-- MongoDB database integration for scalable storage of institutional data
-- Geo-filtering functionality enabling location-based institution search
-- Modular architecture for easy scalability and maintenance
-
-**Impact**: Built a scalable advisory platform serving **20+ institutions**, improving search efficiency and reducing query latency by **35%**.
-
-</details>
-
-<details>
-<summary><b>CUSTOMVCS – Git Inspired Version Control System</b></summary>
-
-<br>
-
-**Technical Stack**: Java, Data Structures, File System Architecture
-
-A lightweight version control system designed to mimic core Git functionality.
-
-**Key Features**:
-- Commit graph architecture for efficient history tracking
-- Branching and rollback support for version management
-- Diff engine for detecting file-level changes
-- Indexed metadata storage enabling O(log n) operations
-- Modular architecture for improved scalability and maintainability
-
-**Impact**: Handles 1000+ version control operations efficiently while maintaining fast lookup performance.
-
-</details>
----
 
 ## 💼 Professional Experience
 <details>
@@ -235,7 +173,71 @@ Worked on building a scalable advisory platform for educational institutions.
 **Impact**: Platform successfully served **20+ institutions** with improved performance and scalability.
 
 </details>
----
+
+<br/>
+
+## DEVELOPMENT PROJECTS
+
+<details>
+<summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
+
+<br>
+
+**Technical Stack**: MERN Stack, OpenAI APIs, Node.js, React, MongoDB, Docker
+
+Real-time conversational platform designed for scalable AI-powered interactions.
+
+**Key Features**:
+- Real-time conversation streaming with async pipelines
+- Session orchestration for handling multiple users concurrently
+- Caching and optimized data pipelines achieving sub-300ms latency
+- Structured logging and observability for system monitoring
+- Optimized database schemas improving storage efficiency
+
+**Impact**: Supports 100+ concurrent users while maintaining high reliability and performance.
+
+</details>
+<details>
+<summary><b>SCHOOL ADVISORY SYSTEM – Institutional Guidance Platform</b></summary>
+
+<br>
+
+**Technical Stack**: React.js, Node.js, Express.js, MongoDB, REST APIs
+
+A full-stack platform designed to help students discover and evaluate educational institutions based on their preferences and location.
+
+**Key Features**:
+- Dynamic React-based interface for browsing and comparing institutions
+- RESTful APIs built with Node.js and Express for efficient data handling
+- MongoDB database integration for scalable storage of institutional data
+- Geo-filtering functionality enabling location-based institution search
+- Modular architecture for easy scalability and maintenance
+
+**Impact**: Built a scalable advisory platform serving **20+ institutions**, improving search efficiency and reducing query latency by **35%**.
+
+</details>
+
+<details>
+<summary><b>CUSTOMVCS – Git Inspired Version Control System</b></summary>
+
+<br>
+
+**Technical Stack**: Java, Data Structures, File System Architecture
+
+A lightweight version control system designed to mimic core Git functionality.
+
+**Key Features**:
+- Commit graph architecture for efficient history tracking
+- Branching and rollback support for version management
+- Diff engine for detecting file-level changes
+- Indexed metadata storage enabling O(log n) operations
+- Modular architecture for improved scalability and maintainability
+
+**Impact**: Handles 1000+ version control operations efficiently while maintaining fast lookup performance.
+
+</details>
+
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -247,7 +249,7 @@ Worked on building a scalable advisory platform for educational institutions.
   <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
+<br/>
 
 ## CONTACT & COLLABORATION
 
@@ -260,7 +262,7 @@ Worked on building a scalable advisory platform for educational institutions.
   </a>
 </p>
 
----
+<br/>
 
 <p align="center">
   <i>"Consistency compounds. Code daily. Improve daily."</i>
