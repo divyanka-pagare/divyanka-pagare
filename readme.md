@@ -1,10 +1,7 @@
 <h1 align="left">Divyanka Shrikant Pagare</h1>
 <h3 align="left">Full Stack Developer</h3>
 
-<p align="left">
-  I build scalable web systems and experiment with intelligent models that solve real-world problems.
-</p>
-
+Learn.. Unlearn.. Relearn..
 
 <br/>
 
