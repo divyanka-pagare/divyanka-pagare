@@ -17,8 +17,12 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 - 💻 Full Stack Developer (MERN Specialist)
 - 🤖 Exploring Cloud & AI-driven systems
 
+
+
   
 <br/>
+
+## 🧠 Technologies I Work With
 <table>
 <tr>
 
