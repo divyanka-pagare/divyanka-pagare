@@ -100,7 +100,7 @@
 </table>
 <br/>
 
-## 💼 Professional Experience
+## PROFESSIONAL EXPERIENCE
 <details>
 <summary><b>COGOPORT – Software Development Engineer</b></summary>
 
@@ -235,7 +235,7 @@ A lightweight version control system designed to mimic core Git functionality.
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight" />
