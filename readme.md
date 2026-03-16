@@ -10,21 +10,12 @@
 
 
 
-<p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight](https://flowcv.me/divyanka-pagare)
-</p>
+
 
 I'm a developer who enjoys turning structured logic into impactful digital products.
 
 - 💻 Full Stack Developer (MERN Specialist)
 - 🤖 Exploring Cloud & AI-driven systems
-- 🛠 Obsessed with writing clean, maintainable code
-- 📈 Always optimizing performance & architecture
-- 🎯 Goal: Build systems that are both scalable and meaningful
-
-I believe great software is not just written — it’s designed with clarity.
-
----
 
 ### 🖥 Backend & Service Development
 
