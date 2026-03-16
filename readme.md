@@ -8,9 +8,7 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
-<a href="[https://divyanka-portfolio.com](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight](https://flowcv.me/divyanka-pagare)">
-  <!-- <img src="https://your-image-link.com/portfolio.png" width="250"/> -->
-</a>
+
 
 <p align="center">
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight](https://flowcv.me/divyanka-pagare)
@@ -31,7 +29,7 @@ I believe great software is not just written — it’s designed with clarity.
 ## ⚙️ Tech Arsenal
 
 ### 💻 Programming Languages
-`Java` • `JavaScript` • `Python` • `C++`
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> </p>
 
 ---
 
