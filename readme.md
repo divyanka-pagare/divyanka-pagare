@@ -1,4 +1,4 @@
-<h1 align="left">Divyanka</h1>
+<h1 align="left">Divyanka Shrikant Pagare</h1>
 <h3 align="left">Full Stack Developer • System Thinker</h3>
 
 <p align="left">
