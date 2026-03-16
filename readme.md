@@ -5,21 +5,25 @@
   I build scalable web systems and experiment with intelligent models that solve real-world problems.
 </p>
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
+
 I'm a developer who enjoys turning structured logic into impactful digital products.
+
+<br/>
 
 - 💻 Full Stack Developer (MERN Specialist)
 - 🤖 Exploring Cloud & AI-driven systems
-
   
 <br/>
 
 <a href="https://flowcv.me/divyanka-pagare">
   <img src="https://raw.githubusercontent.com/divyanka-pagare/divyanka-pagare/refs/heads/main/Screenshot%202026-03-16%20140128.png">
 </a>
+
+<br/>
 
 ## Technologies I Work With
 <table>
@@ -264,5 +268,6 @@ A lightweight version control system designed to mimic core Git functionality.
 <br/>
 
 <p align="center">
-  <i>"Consistency compounds. Code daily. Improve daily."</i>
+  <i>Building meaningful technology with curiosity, warmth, and love.</i>
 </p>
+>
