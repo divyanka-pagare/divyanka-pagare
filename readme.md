@@ -2,7 +2,7 @@
 
 <br/>
 
-- Full Stack Developer (MERN Specialist)
+- Full Stack Developer (MERN Specialist, Java Full Stack)
 - Exploring Cloud & AI-driven systems
   
 <br/>
