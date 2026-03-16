@@ -26,41 +26,45 @@ I believe great software is not just written — it’s designed with clarity.
 
 ---
 
-## ⚙️ Tech Arsenal
-
-### 💻 Programming Languages
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> </p>
-
----
-
-### 🌐 Frontend Engineering
-`React.js` • `Next.js` • `HTML5` • `CSS3` • `Bootstrap` • `Redux`
-
----
-
 ### 🖥 Backend & Service Development
-`Node.js` • `Express.js` • `REST APIs` • `API Design`  
-`Microservices` • `Distributed Systems` • `Service Architecture`
 
----
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-2E8B57?style=for-the-badge"/>
+</p>
 
 ### 🗄 Databases
-`PostgreSQL` • `MongoDB` • `MySQL`
 
----
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-`AWS EC2` • `Docker` • `Kubernetes` • `Containers`  
-`CI/CD` • `GitHub Actions` • `Infrastructure Automation` • `Git`
 
----
+<p align="left">
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-### 🔍 Reliability & Engineering Practices
-`Observability` • `Monitoring` • `Logging` • `Alerting`  
-`Debugging` • `Automation` • `Testing`  
-`Clean Architecture` • `Performance Optimization` • `Fault Tolerance`
+### 🔍 Engineering Practices
 
----
+<p align="left">
+<img src="https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance%20Optimization-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-34495E?style=for-the-badge"/>
+</p>
+
+<br/>
 
 ## DEVELOPMENT PROJECTS
 
