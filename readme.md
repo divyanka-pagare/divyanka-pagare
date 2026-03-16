@@ -113,7 +113,7 @@ I'm a developer who enjoys turning structured logic into impactful digital produ
 
 <br>
 
-**Duration**: April 2025 – Feb 2026  
+**Duration**: April 2025 – Present  
 **Location**: Mumbai, India  
 
 **Technical Stack**: Next.js, REST APIs, Netflix Conductor, Distributed Systems
