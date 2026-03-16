@@ -64,6 +64,139 @@ I believe great software is not just written — it’s designed with clarity.
 
 ---
 
+## DEVELOPMENT PROJECTS
+
+<details>
+<summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
+
+<br>
+
+**Technical Stack**: MERN Stack, OpenAI APIs, Node.js, React, MongoDB, Docker
+
+Real-time conversational platform designed for scalable AI-powered interactions.
+
+**Key Features**:
+- Real-time conversation streaming with async pipelines
+- Session orchestration for handling multiple users concurrently
+- Caching and optimized data pipelines achieving sub-300ms latency
+- Structured logging and observability for system monitoring
+- Optimized database schemas improving storage efficiency
+
+**Impact**: Supports 100+ concurrent users while maintaining high reliability and performance.
+
+</details>
+<details>
+<summary><b>SCHOOL ADVISORY SYSTEM – Institutional Guidance Platform</b></summary>
+
+<br>
+
+**Technical Stack**: React.js, Node.js, Express.js, MongoDB, REST APIs
+
+A full-stack platform designed to help students discover and evaluate educational institutions based on their preferences and location.
+
+**Key Features**:
+- Dynamic React-based interface for browsing and comparing institutions
+- RESTful APIs built with Node.js and Express for efficient data handling
+- MongoDB database integration for scalable storage of institutional data
+- Geo-filtering functionality enabling location-based institution search
+- Modular architecture for easy scalability and maintenance
+
+**Impact**: Built a scalable advisory platform serving **20+ institutions**, improving search efficiency and reducing query latency by **35%**.
+
+</details>
+
+<details>
+<summary><b>CUSTOMVCS – Git Inspired Version Control System</b></summary>
+
+<br>
+
+**Technical Stack**: Java, Data Structures, File System Architecture
+
+A lightweight version control system designed to mimic core Git functionality.
+
+**Key Features**:
+- Commit graph architecture for efficient history tracking
+- Branching and rollback support for version management
+- Diff engine for detecting file-level changes
+- Indexed metadata storage enabling O(log n) operations
+- Modular architecture for improved scalability and maintainability
+
+**Impact**: Handles 1000+ version control operations efficiently while maintaining fast lookup performance.
+
+</details>
+---
+
+## 💼 Professional Experience
+<details>
+<summary><b>COGOPORT – Software Development Engineer</b></summary>
+
+<br>
+
+**Duration**: April 2025 – Feb 2026  
+**Location**: Mumbai, India  
+
+**Technical Stack**: Next.js, REST APIs, Netflix Conductor, Distributed Systems
+
+Worked on building scalable workflow-driven systems and improving backend reliability.
+
+**Key Contributions**:
+- Developed Next.js services integrated with REST APIs and workflow orchestration using Netflix Conductor
+- Reduced workflow execution latency by **30%** through optimized service communication
+- Built robust API orchestration layers with retries, validation, and asynchronous processing
+- Automated document extraction pipelines improving operational throughput by **40%**
+- Implemented monitoring, structured logging, and resilient error handling mechanisms
+
+**Impact**: Improved production reliability and reduced operational workload while enabling faster workflow execution.
+
+</details>
+
+<details>
+<summary><b>INFOSYS SPRINGBOARD – Software Engineer Intern</b></summary>
+
+<br>
+
+**Duration**: June 2024 – Aug 2024  
+**Location**: India  
+
+**Technical Stack**: Java, Spring Boot, REST APIs, SQL
+
+Developed backend services for a multi-role food delivery management system.
+
+**Key Contributions**:
+- Designed a **Spring Boot application** using Controller–Service–DAO architecture
+- Developed and optimized **25+ REST APIs** for order management and system operations
+- Implemented SQL-based persistence ensuring data consistency and reliability
+- Applied OOP principles, logging, and query optimization techniques
+- Improved backend service performance by **20%**
+
+**Impact**: Built a scalable backend system capable of processing **200+ orders efficiently**.
+
+</details>
+
+<details>
+<summary><b>SUMAGO INFOTECH – Full Stack Developer Intern</b></summary>
+
+<br>
+
+**Duration**: Dec 2023 – Feb 2024  
+**Location**: Nashik, India  
+
+**Technical Stack**: React.js, Node.js, MongoDB, REST APIs
+
+Worked on building a scalable advisory platform for educational institutions.
+
+**Key Contributions**:
+- Developed a **full-stack advisory system** using React and Node.js
+- Built REST APIs with MongoDB for data storage and retrieval
+- Implemented **geo-filtering functionality** to improve search accuracy
+- Optimized database queries reducing latency by **35%**
+- Improved API performance and modularity for production-ready deployment
+
+**Impact**: Platform successfully served **20+ institutions** with improved performance and scalability.
+
+</details>
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -74,29 +207,9 @@ I believe great software is not just written — it’s designed with clarity.
   <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-
-
 ---
 
-## 🧭 My Development Philosophy
-
-- Write less, think more.
-- Simplicity > unnecessary complexity.
-- Performance matters.
-- Code should be readable even after 6 months.
-- Learning never stops.
-
----
-
-## 🌱 Currently Leveling Up
-
-- Advanced backend architecture
-- Scalable system design
-- Clean code & software patterns
-
----
-
-## 📬 Connect With Me
+## CONTACT & COLLABORATION
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divyanka-pagare-269b0422b//" target="_blank">
