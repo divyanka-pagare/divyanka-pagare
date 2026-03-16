@@ -263,4 +263,3 @@ A lightweight version control system designed to mimic core Git functionality.
 <p align="center">
   <i>Building meaningful technology with curiosity, warmth, and love.</i>
 </p>
->
