@@ -1,7 +1,5 @@
 <h1 align="left">Divyanka Shrikant Pagare</h1>
-<h3 align="left">Full Stack Developer</h3>
-
-Learn.. Unlearn.. Relearn..
+<h3 align="left">Learn.. Unlearn.. Relearn..</h3>
 
 <br/>
 
