@@ -8,19 +8,18 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
-
-
-
-
+<br/>
 I'm a developer who enjoys turning structured logic into impactful digital products.
 
 - 💻 Full Stack Developer (MERN Specialist)
 - 🤖 Exploring Cloud & AI-driven systems
 
-
-
   
 <br/>
+
+<a href="https://flowcv.me/divyanka-pagare">
+  <img src="https://raw.githubusercontent.com/divyanka-pagare/divyanka-pagare/refs/heads/main/Screenshot%202026-03-16%20140128.png">
+</a>
 
 ## Technologies I Work With
 <table>
