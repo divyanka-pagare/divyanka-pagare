@@ -7,7 +7,10 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
-## 🧠 Who Am I?
+
+<p align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=tokyonight](https://flowcv.me/divyanka-pagare)
+</p>
 
 I'm a developer who enjoys turning structured logic into impactful digital products.
 
