@@ -11,12 +11,12 @@
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td align="top" width="33%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
 </td>
-<td valign="top" width="33%">
+<td align="top" width="33%">
   <a href="https://www.linkedin.com/in/divyanka-pagare-269b0422b//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
