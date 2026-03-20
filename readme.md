@@ -7,12 +7,12 @@
 - Exploring Cloud & AI-driven systems
   
 <br/>
+<p>
 <p align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
-
-
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=divyankapagare" target="_blank">Follow on LinkedIn</a>
+</p>
+<p align="left">
   <a href="https://www.linkedin.com/in/divyanka-pagare-269b0422b//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
+</p>
 <br/>
 
 <a href="https://flowcv.me/divyanka-pagare">
