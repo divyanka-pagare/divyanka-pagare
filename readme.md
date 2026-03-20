@@ -11,6 +11,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
 
+<p align="right">
+  <a href="https://www.linkedin.com/in/divyanka-pagare-269b0422b//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:divyankapagaretech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 <br/>
 
 <a href="https://flowcv.me/divyanka-pagare">
