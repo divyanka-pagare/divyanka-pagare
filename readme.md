@@ -25,7 +25,7 @@
 
 
 <a href="https://flowcv.me/divyanka-pagare">
-  <img src="https://raw.githubusercontent.com/divyanka-pagare/divyanka-pagare/refs/heads/main/Screenshot%202026-03-16%20140128.png">
+  <img src="https://github.com/divyanka-pagare/divyanka-pagare/blob/main/Screenshot%202026-03-22%20230450.png">
   
 </a>
 
