@@ -188,25 +188,26 @@ Worked on building a scalable advisory platform for educational institutions.
 
 ## DEVELOPMENT PROJECTS
 
-<details>
-<summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
+<details> <summary><b>CAMPUS GUIDE PLATFORM</b></summary> <br>
 
-<br>
+Technical Stack: MERN Stack, React.js, Node.js, Express.js, MongoDB, REST APIs
 
-**Technical Stack**: MERN Stack, OpenAI APIs, Node.js, React, MongoDB, Docker
+A full-stack student community platform designed to help students explore placement experiences, interview preparation strategies, and campus opportunities shared by peers and seniors.
 
-Real-time conversational platform designed for scalable AI-powered interactions.
+Key Features:
 
-**Key Features**:
-- Real-time conversation streaming with async pipelines
-- Session orchestration for handling multiple users concurrently
-- Caching and optimized data pipelines achieving sub-300ms latency
-- Structured logging and observability for system monitoring
-- Optimized database schemas improving storage efficiency
+Dynamic platform for sharing and exploring company-wise interview experiences
+RESTful APIs built with Node.js and Express for efficient data management
+MongoDB integration for scalable storage of student contributions and placement resources
+Smart company prioritization based on most-visited and trending organizations
+Secure authentication and role-based access for students and contributors
+Responsive and modular architecture ensuring scalability and smooth user experience
 
-**Impact**: Supports 100+ concurrent users while maintaining high reliability and performance.
+Impact: Created a centralized campus guidance platform improving accessibility of placement preparation resources and enabling collaborative student learning.
 
 </details>
+
+
 <details>
 <summary><b>SCHOOL ADVISORY SYSTEM – Institutional Guidance Platform</b></summary>
 
@@ -224,6 +225,25 @@ A full-stack platform designed to help students discover and evaluate educationa
 - Modular architecture for easy scalability and maintenance
 
 **Impact**: Built a scalable advisory platform serving **20+ institutions**, improving search efficiency and reducing query latency by **35%**.
+
+
+<details>
+<summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
+
+<br>
+
+**Technical Stack**: MERN Stack, OpenAI APIs, Node.js, React, MongoDB, Docker
+
+Real-time conversational platform designed for scalable AI-powered interactions.
+
+**Key Features**:
+- Real-time conversation streaming with async pipelines
+- Session orchestration for handling multiple users concurrently
+- Caching and optimized data pipelines achieving sub-300ms latency
+- Structured logging and observability for system monitoring
+- Optimized database schemas improving storage efficiency
+
+**Impact**: Supports 100+ concurrent users while maintaining high reliability and performance.
 
 </details>
 
