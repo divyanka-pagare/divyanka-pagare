@@ -190,7 +190,9 @@ Worked on building a scalable advisory platform for educational institutions.
 
 <details> 
   
-<summary><b>CAMPUS GUIDE PLATFORM</b></summary> <br>
+<summary><b>CAMPUS GUIDE PLATFORM</b></summary> 
+
+<br>
 
 **Technical Stack**: MERN Stack, React.js, Node.js, Express.js, MongoDB, REST APIs
 
@@ -228,6 +230,7 @@ A full-stack platform designed to help students discover and evaluate educationa
 
 **Impact**: Built a scalable advisory platform serving **20+ institutions**, improving search efficiency and reducing query latency by **35%**.
 
+</details>
 
 <details>
 <summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
