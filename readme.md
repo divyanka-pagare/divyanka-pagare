@@ -188,20 +188,22 @@ Worked on building a scalable advisory platform for educational institutions.
 
 ## DEVELOPMENT PROJECTS
 
-<details> <summary><b>CAMPUS GUIDE PLATFORM</b></summary> <br>
+<details> 
+  
+<summary><b>CAMPUS GUIDE PLATFORM</b></summary> <br>
 
-Technical Stack: MERN Stack, React.js, Node.js, Express.js, MongoDB, REST APIs
+**Technical Stack**: MERN Stack, React.js, Node.js, Express.js, MongoDB, REST APIs
 
 A full-stack student community platform designed to help students explore placement experiences, interview preparation strategies, and campus opportunities shared by peers and seniors.
 
-Key Features:
+**Key Features**:
 
-Dynamic platform for sharing and exploring company-wise interview experiences
-RESTful APIs built with Node.js and Express for efficient data management
-MongoDB integration for scalable storage of student contributions and placement resources
-Smart company prioritization based on most-visited and trending organizations
-Secure authentication and role-based access for students and contributors
-Responsive and modular architecture ensuring scalability and smooth user experience
+- Dynamic platform for sharing and exploring company-wise interview experiences
+- RESTful APIs built with Node.js and Express for efficient data management
+- MongoDB integration for scalable storage of student contributions and placement resources
+- Smart company prioritization based on most-visited and trending organizations
+- Secure authentication and role-based access for students and contributors
+- Responsive and modular architecture ensuring scalability and smooth user experience
 
 Impact: Created a centralized campus guidance platform improving accessibility of placement preparation resources and enabling collaborative student learning.
 
