@@ -2,7 +2,7 @@
 
 <br/>
 
-- Mastering Data Structures, Algorithms and System Design
+- Mastering Data Structures, Algorithms ![Leetcode](https://leetcode.com/u/divyankapagare/) and System Design
 - Full Stack Developer: MERN Stack and Java Full Stack
 - Exploring Cloud & AI-driven systems
   
