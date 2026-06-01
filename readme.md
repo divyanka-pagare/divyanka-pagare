@@ -234,26 +234,6 @@ A full-stack platform designed to help students discover and evaluate educationa
 </details>
 
 <details>
-<summary><b>CONVERSATIONAL INTELLIGENCE PLATFORM</b></summary>
-
-<br>
-
-**Technical Stack**: MERN Stack, OpenAI APIs, Node.js, React, MongoDB, Docker
-
-Real-time conversational platform designed for scalable AI-powered interactions.
-
-**Key Features**:
-- Real-time conversation streaming with async pipelines
-- Session orchestration for handling multiple users concurrently
-- Caching and optimized data pipelines achieving sub-300ms latency
-- Structured logging and observability for system monitoring
-- Optimized database schemas improving storage efficiency
-
-**Impact**: Supports 100+ concurrent users while maintaining high reliability and performance.
-
-</details>
-
-<details>
 <summary><b>CUSTOMVCS – Git Inspired Version Control System</b></summary>
 
 <br>
