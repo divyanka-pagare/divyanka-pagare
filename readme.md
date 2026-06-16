@@ -110,9 +110,9 @@
 
 </td>
 
-<!-- </tr>
+</tr>
 </table>
-<br/> -->
+<br/>
 <!---
 ## PROFESSIONAL EXPERIENCE
 <details>
@@ -252,8 +252,6 @@ A lightweight version control system designed to mimic core Git functionality.
 
 </details>
 --->
-
-<br/>
 
 ## 📊 GITHUB ANALYTICS
 
