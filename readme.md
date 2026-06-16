@@ -24,10 +24,9 @@
 <br/>
 
 
-<a href="https://flowcv.me/divyanka-pagare">
+<!-- <a href="https://flowcv.me/divyanka-pagare">
   <img src="https://github.com/divyanka-pagare/divyanka-pagare/blob/main/Screenshot%202026-03-22%20230450.png">
-  
-</a>
+</a> -->
 
 <br/>
 <br/>
