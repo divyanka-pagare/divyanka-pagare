@@ -110,9 +110,9 @@
 
 </td>
 
-</tr>
+<!-- </tr>
 </table>
-<br/>
+<br/> -->
 <!---
 ## PROFESSIONAL EXPERIENCE
 <details>
