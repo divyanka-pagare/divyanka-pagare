@@ -28,8 +28,8 @@
   <img src="https://github.com/divyanka-pagare/divyanka-pagare/blob/main/Screenshot%202026-03-22%20230450.png">
 </a> -->
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 ## Technologies I Work With
 <table>
