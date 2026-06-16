@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<br/>
-
 
 <!-- <a href="https://flowcv.me/divyanka-pagare">
   <img src="https://github.com/divyanka-pagare/divyanka-pagare/blob/main/Screenshot%202026-03-22%20230450.png">
