@@ -114,14 +114,14 @@
 </tr>
 </table>
 <br/>
-
+<!---
 ## PROFESSIONAL EXPERIENCE
 <details>
 <summary><b>COGOPORT – Software Development Engineer</b></summary>
 
-<br>
 
-**Duration**: April 2025 – Present  
+
+<!--- **Duration**: April 2025 – Present
 **Location**: Mumbai, India  
 
 **Technical Stack**: Next.js, REST APIs, Netflix Conductor, Distributed Systems
@@ -252,6 +252,7 @@ A lightweight version control system designed to mimic core Git functionality.
 **Impact**: Handles 1000+ version control operations efficiently while maintaining fast lookup performance.
 
 </details>
+--->
 
 <br/>
 
