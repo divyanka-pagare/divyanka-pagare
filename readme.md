@@ -32,81 +32,77 @@
 ## Technologies I Work With
 <table>
 <tr>
-
 <td valign="top" width="33%">
 
 ### Programming Languages
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </td>
-
 <td valign="top" width="33%">
 
 ### Frontend Engineering
-
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </td>
-
 <td valign="top" width="33%">
 
 ### Backend & Services
-
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><br>
- <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/><br>
- <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/><br>
- <img src="https://img.shields.io/badge/System%20Design-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/System%20Design-2E8B57?style=for-the-badge"/>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td valign="top">
 
-### Databases
-
+### Databases & Caching
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </td>
-
 <td valign="top">
 
 ### Cloud & DevOps
-
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </td>
-
 <td valign="top">
 
-### Engineering Practices
-
+### Engineering Practices & Tools
 <img src="https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/Performance%20Optimization-FF5733?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/Observability-8E44AD?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/Debugging-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-34495E?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Payment%20Gateway%20Integration-00BFA5?style=for-the-badge&logo=razorpay&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/LLM%20%2F%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Distributed%20Systems-1E90FF?style=for-the-badge"/>
 
 </td>
-
 </tr>
 </table>
 <br/>
