@@ -3,7 +3,7 @@
 <br/>
 
 - Mastering Data Structures, Algorithms and System Design
-- Full Stack Developer: MERN Stack and Java Full Stack
+- Full Stack Developer: Java Full Stack and MERN Stack  
 - Exploring Cloud & AI-driven systems
   
 <br/>
