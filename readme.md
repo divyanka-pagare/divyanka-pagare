@@ -1,4 +1,4 @@
-<h1 align="left">Divyanka Shrikant Pagare</h1>
+<!-- <h1 align="left">Divyanka Shrikant Pagare</h1>
 
 <br/>
 
@@ -9,11 +9,11 @@
 <br/>
 
 <table>
-<tr>
+<tr> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&color=blue)
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/divyanka-pagare-269b0422b//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -21,13 +21,6 @@
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<!-- <a href="https://flowcv.me/divyanka-pagare">
-  <img src="https://github.com/divyanka-pagare/divyanka-pagare/blob/main/Screenshot%202026-03-22%20230450.png">
-</a> -->
-
-<!-- <br/>
-<br/> -->
 
 ## Technologies I Work With
 <table>
@@ -106,7 +99,7 @@
 </td>
 </tr>
 </table>
-<br/>
+<br/> -->
 <!---
 ## PROFESSIONAL EXPERIENCE
 <details>
