@@ -31,7 +31,7 @@ I build backend systems the way I'd want to inherit them — clean, tested, and 
 ## Experience
 
 **Software Development Engineer · Cogoport** · `April 2025 – Feb 2026`
-*Mumbai, India · Full-time*
+*Mumbai, Maharashtra, India · Full-time*
 
 - Built backend services using **Next.js**, REST APIs, and workflow orchestration with **Netflix Conductor**
 - Reduced workflow execution latency by **30%** through optimized service communication
@@ -42,8 +42,8 @@ I build backend systems the way I'd want to inherit them — clean, tested, and 
 
 ---
 
-**Software Engineer Intern · Infosys Springboard** · `Jun 2024 – Aug 2024`
-*Internship*
+**Java Development Intern · Infosys Springboard** · `Jun 2024 – Aug 2024`
+*Virtual, Internship*
 
 - Designed a Spring Boot application using Controller–Service–DAO architecture
 - Built and optimized **25+ REST APIs** for order management in a food delivery system
@@ -54,7 +54,7 @@ I build backend systems the way I'd want to inherit them — clean, tested, and 
 ---
 
 **Full Stack Developer Intern · Sumago Infotech** · `Dec 2023 – Feb 2024`
-*Nashik, India · Internship*
+*Nashik, Maharashtra, India · Internship*
 
 - Built a full-stack advisory platform using **React** and **Node.js**
 - Implemented geo-filtering for location-based search, cutting query latency by **35%**
