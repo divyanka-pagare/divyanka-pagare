@@ -239,7 +239,7 @@ A lightweight version control system designed to mimic core Git functionality.
 
 </details>
 --->
-
+<!---
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
@@ -268,3 +268,147 @@ A lightweight version control system designed to mimic core Git functionality.
 <p align="center">
   <i>Building meaningful technology with curiosity, warmth, and love.</i>
 </p>
+--->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E8B57&height=120&section=header&text=Divyanka%20Pagare&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Full+Stack+Developer%3A+Java+%2B+MERN;Building+Production-Grade+Backend+Systems" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
+[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyankapagaretech@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&style=flat-square&color=2E8B57)](https://github.com/divyanka-pagare)
+
+</div>
+
+---
+
+## About Me
+
+I build backend systems the way I'd want to inherit them — clean, tested, and boring in the best way. Right now that means going deep on Java and Spring Boot: payment flows, security, and the kind of production detail (CI pipelines, sandbox testing, real error handling) that doesn't show up in a tutorial.
+
+- 🎓 **B.E. Computer Engineering** — PVGCOE, 2025 · GPA 8.76/10
+- 💼 Full-stack experience across **Cogoport** and **Sumago Infotech**
+- 🔧 Currently deep in **Java Spring Boot**, building toward fintech-grade backend roles
+- 🧩 Actively building **CampusEdge** — a placement portal for my alma mater, approved by TPO & Principal
+- 🏆 Rising Star Award · First Runner-Up, Project Competition
+
+---
+
+## Experience
+
+**Software Development Engineer · Cogoport**
+*Full-time*
+
+- Built backend services using **Next.js**, REST APIs, and workflow orchestration with **Netflix Conductor**
+- Reduced workflow execution latency by **30%** through optimized service communication
+- Designed resilient API orchestration with retries, validation, and async processing
+- Automated document extraction pipelines, improving operational throughput by **40%**
+
+`Next.js` `REST APIs` `Netflix Conductor` `Distributed Systems`
+
+---
+
+**Software Engineer Intern · Infosys Springboard**
+
+- Designed a Spring Boot application using Controller–Service–DAO architecture
+- Built and optimized **25+ REST APIs** for order management in a food delivery system
+- Improved backend service performance by **20%** through query optimization
+
+`Java` `Spring Boot` `REST APIs` `SQL`
+
+---
+
+**Full Stack Developer Intern · Sumago Infotech**
+
+- Built a full-stack advisory platform using **React** and **Node.js**
+- Implemented geo-filtering for location-based search, cutting query latency by **35%**
+- Platform scaled to serve **20+ institutions**
+
+`React` `Node.js` `MongoDB` `REST APIs`
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Razorpay Payment Gateway API
+Production-style payment backend with secure auth, sandbox-tested transaction flows, and a green CI pipeline.
+
+`Java 17` `Spring Boot` `Spring Security / JWT` `MySQL` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 CampusEdge
+A college placement portal for PVGCOE — hyperlocal, verified placement data: senior interview experiences, alumni mentorship, real placement stats. Approved by TPO & Principal.
+
+`Spring Boot` `React` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Java E-Commerce Backend
+A 12-week production-grade backend build: JWT auth, JPA Specifications for catalog search, Redis-backed cart, Stripe payments with idempotency, Kafka notifications, and full observability.
+
+`Spring Boot` `Redis` `Kafka` `Stripe` `Prometheus / Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ Student Management System
+Java Swing application with QR-code attendance (token expiry, WiFi & device-fingerprint validation), bulk attendance marking, and fee-collection analytics dashboards.
+
+`Java Swing` `MySQL` `ZXing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technologies I Work With
+
+**Languages:** Java · JavaScript · Python · C++
+
+**Backend:** Spring Boot · Spring Security · Hibernate · Node.js · Express.js · REST APIs · Microservices
+
+**Frontend:** React · Redux · Angular · Next.js
+
+**Databases & Caching:** PostgreSQL · MySQL · MongoDB · Redis
+
+**Cloud & DevOps:** AWS (EC2, EKS) · Docker · Kubernetes · Kafka · GitHub Actions · Git
+
+**Practices:** System Design · Clean Architecture · Testing · Observability · CI/CD
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanka-pagare&theme=github_dark" />
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=divyanka-pagare&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanka-pagare&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2E8B57" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyanka-pagare&theme=github-dark-blue&hide_border=true&background=0D1117&fire=2E8B57&ring=2E8B57" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:0D1117&height=80&section=footer" width="100%"/>
+</div>
+
