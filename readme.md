@@ -43,7 +43,7 @@ I build backend systems the way I'd want to inherit them — clean, tested, and 
 ---
 
 **Java Development Intern · Infosys Springboard** · `Jun 2024 – Aug 2024`
-*Virtual, Internship*
+*Virtual · Internship*
 
 - Designed a Spring Boot application using Controller–Service–DAO architecture
 - Built and optimized **25+ REST APIs** for order management in a food delivery system
@@ -85,7 +85,7 @@ A college placement portal for PVGCOE — hyperlocal, verified placement data: s
 
 `Spring Boot` `React` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/divyanka-pagare/CampusGuide)
+[![Repo](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/divyanka-pagare/Campus-Edge) [![Repo](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github)](https://github.com/divyanka-pagare/campus-edge-frontend) 
 
 </td>
 </tr>
