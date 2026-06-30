@@ -85,7 +85,7 @@ A college placement portal for PVGCOE — hyperlocal, verified placement data: s
 
 `Spring Boot` `React` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/divyanka-pagare/CampusGuide)
+[![Repo](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/divyanka-pagare/CampusGuide)
 
 </td>
 </tr>
