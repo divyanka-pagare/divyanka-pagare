@@ -92,10 +92,12 @@ A college placement portal for PVGCOE — hyperlocal, verified placement data: s
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Java E-Commerce Backend
+### 🛍️ [Java E-Commerce Backend](https://github.com/divyanka-pagare/E-Commerce-Backend)
 A 12-week production-grade backend build: JWT auth, JPA Specifications for catalog search, Redis-backed cart, Stripe payments with idempotency, Kafka notifications, and full observability.
 
 `Spring Boot` `Redis` `Kafka` `Stripe` `Prometheus / Grafana`
+
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/divyanka-pagare/E-Commerce-Backend)
 
 </td>
 <td width="50%" valign="top">
