@@ -115,11 +115,14 @@ Java Swing application with QR-code attendance (token expiry, WiFi & device-fing
 
 ## Technologies I Work With
 
-**Languages:** Java · JavaScript · Python · C++ 
-**Backend:** Spring Boot · Spring Security · Hibernate · Node.js · Express.js · REST APIs · Microservices 
+**Languages:** Java · JavaScript · Python · C++ <br> **Backend:** Spring Boot · Spring Security · Hibernate · Node.js · Express.js · REST APIs · Microservices
+
 **Frontend:** React · Redux · Angular · Next.js 
+
 **Databases & Caching:** PostgreSQL · MySQL · MongoDB · Redis 
+
 **Cloud & DevOps:** AWS (EC2, EKS) · Docker · Kubernetes · Kafka · GitHub Actions · Git 
+
 **Practices:** System Design · Clean Architecture · Testing · Observability · CI/CD 
 
 ---
