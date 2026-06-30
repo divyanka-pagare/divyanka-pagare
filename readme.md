@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D9A521?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
-[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-D9A521?style=flat-square&logo=gmail&logoColor=white)](mailto:divyankapagaretech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D9A521?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanka-pagare-269b0422b/) 
+[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-D9A521?style=flat-square&logo=gmail&logoColor=white)](mailto:divyankapagaretech@gmail.com) 
 [![Profile Views](https://komarev.com/ghpvc/?username=divyanka-pagare&style=flat-square&color=D9A521)](https://github.com/divyanka-pagare)
 
 </div>
