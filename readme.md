@@ -64,7 +64,7 @@ I build backend systems the way I'd want to inherit them — clean, tested, and 
 
 ---
 
-## Featured Projects
+## Projects
 
 <table>
 <tr>
